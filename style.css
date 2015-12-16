@@ -1,0 +1,39 @@
+html {
+    width: 70%;
+    margin: auto;
+    background-image: linear-gradient(white,grey);
+    border: groove black 3px;
+}
+
+h3 {
+    text-align: center;
+    font-size: 25px;
+    text-decoration: underline;
+    font-family: monospace;
+}
+
+h2 {
+    font-size: 20px;
+    text-decoration: underline;
+    font-family: monospace;
+}
+
+p {
+    font-size: 18px;
+    text-align: justify;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {  
+    color: black;
+}
+
+footer {
+    border: groove black 3px;
+    padding: 5px 5px 5px 5px;
+    font-size: 13px;
+    
+}
